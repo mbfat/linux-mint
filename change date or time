@@ -1,0 +1,5 @@
+
+sudo date +%Y%m%d -s "20220920"
+
+sudo date +%T -s "11:12:00"
+
