@@ -1,3 +1,11 @@
+automatic
+
+https://linuxhint.com/configure-ntp-linux-mint/
+
+
+_______________________________________________
+
+manual
 
 sudo date +%Y%m%d -s "20220920"
 
